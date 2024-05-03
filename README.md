@@ -31,7 +31,7 @@
   <br>
   	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
   	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <br>
+  	<br>
   	<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" /> 
   	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  
@@ -82,12 +82,12 @@
 </div>
 
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k168ww&layout=compact">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=k168ww&show_icons=true">
-	<br>
-	<img src="https://github-contributor-stats.vercel.app/api?username=k168ww">
-	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k168ww&langs_count=10&layout=compact" />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=k168ww" />
+	<br />
+	<img src="https://github-contributor-stats.vercel.app/api?username=k168ww" />
+	<br />
 </div>
 
 <br>
@@ -100,8 +100,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssw1210)](https://solved.ac/ssw1210)
 </div>
 <br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
 
