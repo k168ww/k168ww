@@ -9,9 +9,9 @@
     
   #### ✉　| k168ww@gmail.com  
   
-  #### 💼　| notion (업데이트 예정)　　　
+  #### 💼　| notion 
   
-  #### 📑　| blog (업데이트 예정)　　　　 　
+  #### 📑　| blog 　　　 　
   
 <br />
 <br />
