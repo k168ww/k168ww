@@ -84,7 +84,7 @@
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k168ww&langs_count=10&layout=compact" />
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=k168ww" />
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=k168ww" alt="GitHub Streak" /></a>
 	<br />
 	<img src="https://github-contributor-stats.vercel.app/api?username=k168ww" />
 	<br />
